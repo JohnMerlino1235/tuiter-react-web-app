@@ -1,0 +1,107 @@
+.wd-global {
+    background-color: black;
+    font-family: Arial;
+    margin-left: 16px;
+}
+
+.wd-borders {
+    border-top: rgb(47, 51, 54) solid 2px;
+    border-left: rgb(47, 51, 54) solid 2px;
+    border-right: rgb(47, 51, 54) solid 2px;
+}
+
+.wd-search {
+    margin-left: 16px;
+    color: white;
+    background-color: #3b3b3b;
+    border-radius: 50px;
+    border: none;
+    margin-top: 5px;
+    padding: 7px;
+    width: 80%;
+}
+
+.wd-settings {
+    float: right;
+    margin-top: 5px;
+    padding-right: 12px;
+    width: 22px;
+    height: 22px;
+}
+
+.wd-hyperlink {
+    color: rgb(110, 118, 125);
+    font-size: 15px;
+    padding: 16px;
+    width: 15%;
+}
+
+.wd-hyperlink-boarders {
+    border-bottom: rgb(47, 51, 54) solid 2px;
+    border-left: rgb(47, 51, 54) solid 2px;
+    border-right: rgb(47, 51, 54) solid 2px;
+    padding: 16px;
+}
+
+.wd-highlighted-hyperlink {
+    color: rgb(29, 161, 242);
+    border-bottom-style: solid;
+    border-bottom-color: rgb(29, 161, 242);
+}
+
+.wd-c-gray-text {
+    margin-left: 16px;
+    color: rgb(110, 118, 125);
+    padding: 2px;
+    font-size: 13px;
+}
+
+.wd-c-white-text {
+    margin-left: 16px;
+    color: white;
+    padding: 2px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.wd-d-white-user-text {
+    margin-left: 16px;
+    color: white;
+    padding: 2px;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.wd-d-gray-text {
+    color: rgb(110, 118, 125);
+    font-size: 13px;
+}
+
+.wd-suggested-boarders {
+    padding: 3px;
+    border-color: rgb(47, 51, 54);
+    border-style: solid;
+}
+
+.wd-d-suggested-boarders {
+    padding: 3px;
+    border-color: rgb(47, 51, 54);
+    border-style: solid;
+    display: flex;
+}
+
+.wd-right {
+    float: right
+}
+
+.wd-width {
+    width: 50%;
+}
+
+.wd-picture {
+    object-fit: cover;
+    border-radius: 30px;
+    height: 100px;
+    width: 100px;
+    padding: 16px;
+}

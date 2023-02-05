@@ -1,0 +1,120 @@
+.wd-global {
+    background-color: black;
+    font-family: Arial;
+    margin-left: 16px;
+}
+
+.wd-borders {
+    border: rgb(47, 51, 54) solid 1px;
+}
+
+.wd-a-title {
+    margin-top: 12px;
+    padding-left: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.wd-a-user-handle {
+    margin-bottom: 12px;
+    margin-left: 16px;
+    font-size: 13px;
+    color: rgb(110, 118, 125);
+}
+
+.wd-b-avatar-image {
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    margin-top: 6px;
+    margin-left: 6px;
+}
+
+.wd-c {
+    margin-left: 18px;
+    margin-top: 12px;
+}
+
+.wd-c-author {
+    margin-left: 70px;
+    color: white;
+    font-weight: bold;
+}
+
+.wd-c-author-handle {
+    color: rgb(110, 118, 125);
+}
+
+.wd-d-content {
+    color: white;
+    font-size: 15px;
+    width: 506px;
+    margin-top: 2px;
+    margin-bottom: 12px;
+    padding-right: 16px;
+    margin-left: 88px;
+}
+
+.wd-e-picture-borders {
+    margin-top: 16px;
+    margin-left: 88px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: rgb(47, 51, 54) solid 1px;
+    border-left: rgb(47, 51, 54) solid 1px;
+    border-right: rgb(47, 51, 54) solid 1px;
+}
+
+.wd-e-picture {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 504px;
+    height: 264px;
+}
+
+.wd-f {
+    padding: 12px;
+}
+
+.wd-f-white-text {
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    max-width: 504px;
+    margin-left: 88px;
+}
+
+.wd-f-gray-text {
+    color: rgb(110, 118, 125);
+    font-size: 15px;
+    max-width: 504px;
+    margin-left: 88px;
+}
+
+.wd-g {
+    margin-left: 20px;
+    margin-top: 12px;
+    margin-bottom: 9px;
+}
+
+.wd-g-individual-icon {
+    text-decoration: none;
+    margin-left: 70px;
+    margin-top: 5px;
+    width: 25%;
+}
+
+.wd-g-inidividual-icon-coloring {
+    color: rgb(110, 118, 125);
+    width: 20px;
+    height: 20px;
+}
+
+.wd-g-gray-text {
+    color: rgb(110, 118, 125);
+}
+
+.wd-g-red-text {
+    color: red;
+}
