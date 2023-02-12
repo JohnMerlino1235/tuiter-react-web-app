@@ -1,3 +1,11 @@
+.wd-search-icon {
+    left: 25px;
+    bottom: 10px;
+}
+
+.wd-overlay {
+    z-index: 9;
+}
 .wd-global {
     background-color: black;
     font-family: Arial;
