@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_bottom_nav_header html_menu_left html_slim html_header_sticky_disabled html_header_shrinking_disabled html_header_topbar_active html_mobile_menu_phone html_disabled html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_entry_id_3342 av-no-preview ">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>JQuery Training - Chicago Computer Classes</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Chicago, IL &amp; Suburbs - JQuery Classes for Small Groups &amp; Individuals."/>
+<link rel="canonical" href="https://www.chicagocomputerclasses.com/jquery-training/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="JQuery Training - Chicago Computer Classes" />
+<meta property="og:description" content="Chicago, IL &amp; Suburbs - JQuery Classes for Small Groups &amp; Individuals." />
+<meta property="og:url" content="https://www.chicagocomputerclasses.com/jquery-training/" />
+<meta property="og:site_name" content="Chicago Computer Classes" />
+<meta property="article:section" content="Classes" />
+<meta property="og:image" content="https://www.chicagocomputerclasses.com/wp-content/uploads/2016/01/jquery.gif" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="800" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Chicago, IL &amp; Suburbs - JQuery Classes for Small Groups &amp; Individuals." />
+<meta name="twitter:title" content="JQuery Training - Chicago Computer Classes" />
+<meta name="twitter:image" content="https://www.chicagocomputerclasses.com/wp-content/uploads/2016/01/jquery.gif" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.chicagocomputerclasses.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<!-- google webfont font replacement -->
+<link rel='stylesheet' id='avia-google-webfont' href='//fonts.googleapis.com/css?family=Open+Sans:400,600' type='text/css' media='all'/> 
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.chicagocomputerclasses.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.21"}};
+			!function(t,a,e){var r,i,n,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(n=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},i=0;i<n.length;i++)e.supports[n[i]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,56826,8203,55356,56819),0,0),e===o.toDataURL())?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55358,56794,8205,9794,65039),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55358,56794,8203,9794,65039),0,0),e!==o.toDataURL()}return!1}(n[i]),e.supports.everything=e.supports.everything&&e.supports[n[i]],"flag"!==n[i]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[n[i]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='avia-woocommerce-css-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/config-woocommerce/woocommerce-mod.css?ver=4.8.21' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-customer-reviews-3-frontend-css'  href='https://www.chicagocomputerclasses.com/wp-content/plugins/wp-customer-reviews/css/wp-customer-reviews-generated.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='iphorm-css'  href='https://www.chicagocomputerclasses.com/wp-content/plugins/iphorm-form-builder/css/styles.css?ver=1.10.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='avia-grid-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/css/grid.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/css/base.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/css/layout.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/css/shortcodes.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-media-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-print-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/css/print.css?ver=1' type='text/css' media='print' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='https://www.chicagocomputerclasses.com/wp-content/uploads/dynamic_avia/enfold.css?ver=61ac257b52ffd' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/css/custom.css?ver=2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/wp-customer-reviews/js/wp-customer-reviews.js?ver=3.5.8'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/iphorm-form-builder/js/iphorm.js?ver=1.10.2'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/js/avia-compat.js?ver=2'></script>
+<link rel='https://api.w.org/' href='https://www.chicagocomputerclasses.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chicagocomputerclasses.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://www.chicagocomputerclasses.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chicagocomputerclasses.com%2Fjquery-training%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.chicagocomputerclasses.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chicagocomputerclasses.com%2Fjquery-training%2F&#038;format=xml" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Chicago Computer Classes RSS2 Feed" href="https://www.chicagocomputerclasses.com/feed/" />
+<link rel="pingback" href="https://www.chicagocomputerclasses.com/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://www.chicagocomputerclasses.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav1.png" type="image/png">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<link href='https://fonts.googleapis.com/css?family=Tauri' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Finger+Paint' rel='stylesheet' type='text/css'>
+
+
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('https://www.chicagocomputerclasses.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('https://www.chicagocomputerclasses.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('https://www.chicagocomputerclasses.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('https://www.chicagocomputerclasses.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('https://www.chicagocomputerclasses.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+</head>
+
+
+
+
+<body id="top" class="page-template-default page page-id-3342 stretched open_sans  woocommerce-no-js" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_bottom_nav_header av_menu_left av_slim av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_seperator_small_border'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+<a id="advanced_menu_toggle" href="#" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><a id="advanced_menu_hide" href="#" 	aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>		<div id='header_meta' class='container_wrap container_wrap_meta  av_icon_active_main av_secondary_right av_extra_header_active av_phone_active_right av_entry_id_3342'>
+		
+			      <div class='container'>
+			      <div class='phone-info '><span>On-Site Training: Chicago, North, North-East, North-West and West Suburbs, including Schaumburg, Hoffman Estates and Naperville.</span></div>			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <ul  class = 'cart_dropdown ' data-success='was added to the cart'><li class='cart_dropdown_first'><a class='cart_dropdown_link' href='https://www.chicagocomputerclasses.com/cart/'><span aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='av-cart-counter'>0</span><span class='avia_hidden_link_text'>Shopping Cart</span></a><!--<span class='cart_subtotal'><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>0.00</span></span>--><div class='dropdown_widget dropdown_widget_cart'><div class='avia-arrow'></div><div class="widget_shopping_cart_content"></div></div></li></ul><div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://www.chicagocomputerclasses.com/'><img height='100' width='300' src='https://www.chicagocomputerclasses.com/wp-content/uploads/2015/01/ccclogo.svg' alt='Chicago Computer Classes' /></a></span><ul class='noLightbox social_bookmarks icon_count_1'><span class="av_font_icon  avia-icon-pos-left xes" style="font-size:23px;color:black;opacity:0.9;" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span> (312) 818-5515</ul></div></div><div id='header_main_alternate' class='container_wrap'><div class='container'><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-top-level menu-item-top-level-1"><a href="http://www.chicagocomputerclasses.com/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-3174" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-mega-parent  menu-item-top-level menu-item-top-level-2"><a href="https://www.chicagocomputerclasses.com/classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Classes &#038; Tutoring</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<div class='avia_mega_div avia_mega4 twelve units'>
+
+<ul class="sub-menu">
+	<li id="menu-item-3362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children avia_mega_menu_columns_4 three units  avia_mega_menu_columns_first">
+	<ul class="sub-menu">
+		<li id="menu-item-3442" class="avia_mega_text_block menu-item menu-item-type-custom menu-item-object-custom"><img src="https://www.chicagocomputerclasses.com/wp-content/uploads/2014/12/microsoftexcel.png"></li>
+		<li id="menu-item-3369" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/excel-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">View All Excel Classes</span></a></li>
+		<li id="menu-item-3366" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/excel-classes-introduction/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">On-Site Microsoft Excel Class – Introduction</span></a></li>
+		<li id="menu-item-3365" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/excel-classes-intermediate/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">On-Site Microsoft Excel Class – Intermediate</span></a></li>
+		<li id="menu-item-3361" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/excel-classes-advanced/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">On-Site Microsoft Excel Class – Advanced</span></a></li>
+		<li id="menu-item-3360" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/excel-classes-vba-macros/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">On-Site Microsoft Excel VBA Training – Introduction to Macros</span></a></li>
+		<li id="menu-item-3368" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/microsoft-excel-automation/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Microsoft Excel Automation – Automate Repetitive Tasks</span></a></li>
+		<li id="menu-item-3367" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/excel-tutoring/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Microsoft Excel Tutoring</span></a></li>
+		<li id="menu-item-3497" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/microsoft-excel-consulting-services/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Microsoft Excel Consulting Services</span></a></li>
+		<li id="menu-item-3644" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/powerpoint-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PowerPoint Classes</span></a></li>
+		<li id="menu-item-3782" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/google-sheets/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Google Sheets Classes</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3014" class="menu-item menu-item-type-sidebar menu-item-object-enfold menu-item-has-children avia_mega_menu_columns_4 three units ">
+	<ul class="sub-menu">
+		<li id="menu-item-3436" class="avia_mega_text_block menu-item menu-item-type-custom menu-item-object-custom"><img src="https://www.chicagocomputerclasses.com/wp-content/uploads/2015/01/wordpress_classes_chicago.png" /></li>
+		<li id="menu-item-3438" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/wordpress-class/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">WordPress Class – Introduction</span></a></li>
+		<li id="menu-item-3437" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/wordpress-training/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">WordPress Training – Intermediate</span></a></li>
+		<li id="menu-item-3439" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/wordpress-training-learn/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">WordPress Training – Build While You Learn</span></a></li>
+		<li id="menu-item-3440" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/wordpress-tutoring/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">WordPress Tutoring</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3018" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children avia_mega_menu_columns_4 three units "><span class='mega_menu_title heading-color av-special-font'>Development &#038; Design</span>
+	<ul class="sub-menu">
+		<li id="menu-item-2601" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/html-introduction-class/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">HTML Introduction Class</span></a></li>
+		<li id="menu-item-2680" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/css-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">CSS Introduction Class</span></a></li>
+		<li id="menu-item-2678" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/advanced-css-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Advanced CSS Selectors Course</span></a></li>
+		<li id="menu-item-2679" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/css-responsive-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">CSS Media Queries for Responsive Web Design</span></a></li>
+		<li id="menu-item-2667" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/bootstrap-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Bootstrap Classes – Responsive Web Design</span></a></li>
+		<li id="menu-item-3301" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/joomla-training/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Joomla! Training</span></a></li>
+		<li id="menu-item-3323" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/sql-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">SQL Classes</span></a></li>
+		<li id="menu-item-3316" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/mysql-training-2/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">MySQL Training – Introduction</span></a></li>
+		<li id="menu-item-3335" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/javascript-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">JavaScript Classes</span></a></li>
+		<li id="menu-item-3358" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3342 current_page_item"><a href="https://www.chicagocomputerclasses.com/jquery-training/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">JQuery Training</span></a></li>
+		<li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/python-programming-training/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Python Introduction Class &#8211; Programming</span></a></li>
+		<li id="menu-item-2512" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/html-tutoring/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">HTML Tutoring</span></a></li>
+		<li id="menu-item-2511" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/css-tutoring/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">CSS Tutoring</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children avia_mega_menu_columns_4 three units avia_mega_menu_columns_last"><span class='mega_menu_title heading-color av-special-font'>Marketing</span>
+	<ul class="sub-menu">
+		<li id="menu-item-2649" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/seo-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">SEO Classes</span></a></li>
+		<li id="menu-item-2661" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/adwords-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Google AdWords Classes (PPC Advertising)</span></a></li>
+		<li id="menu-item-3622" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/google-tag-manager-training-classes-chicago-il/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Google Tag Manager Training Class – Chicago, IL</span></a></li>
+		<li id="menu-item-2662" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/ppc-classes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PPC Classes (Pay-per-Click)</span></a></li>
+		<li id="menu-item-2571" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/ppc-consulting/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PPC (AdWords, BingsAds) Consulting</span></a></li>
+		<li id="menu-item-2861" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/google-analytics-training/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Google Analytics Training</span></a></li>
+	</ul>
+</li>
+</ul>
+
+</div>
+</li>
+<li id="menu-item-2721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="https://www.chicagocomputerclasses.com/microsoft-excel-automation/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-2722" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chicagocomputerclasses.com/microsoft-excel-automation/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Microsoft Excel Automation – Automate Repetitive Tasks</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4"><a href="https://www.chicagocomputerclasses.com/plugins/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Plugins</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-2275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="https://www.chicagocomputerclasses.com/customer-service/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Customer Service</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-2902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://www.chicagocomputerclasses.com/locations/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Locations</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special">
+							<a href="?s=" data-avia-search-tooltip="
+
+&lt;form action=&quot;https://www.chicagocomputerclasses.com/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='0'>
+
+	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title'><a href='https://www.chicagocomputerclasses.com/jquery-training/' rel='bookmark' title='Permanent Link: JQuery Training'  itemprop="headline" >JQuery Training</a></h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" xmlns:v="http://rdf.data-vocabulary.org/#"><span class="trail-before"><span class="breadcrumb-title">You are here:</span></span> <a href="https://www.chicagocomputerclasses.com" title="Chicago Computer Classes" rel="home" class="trail-begin">Home</a> <span class="sep">/</span> <span class="trail-end">JQuery Training</span></div></div></div></div><div id='av_section_1' class='avia-section alternate_color avia-section-default avia-no-shadow avia-bg-style-scroll  avia-builder-el-0  el_before_av_one_full  avia-builder-el-first  container_wrap fullsize'   ><div class='container' ><main  role="main" itemprop="mainContentOfPage"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-3342'><div class='entry-content-wrapper clearfix'>
+<div class="flex_column av_one_third  flex_column_div first  avia-builder-el-1  el_before_av_one_third  avia-builder-el-first  " ><section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" ><h2>jQuery Class &#8211; Introduction<br />
+<small style="font-size:11px">The Most Popular JavaScript Library</small></h2>
+</div></section>
+<section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" ><div class="pricetag"><div class="priceinner">$789.99 -&nbsp;up to 10 attendees</div></div>
+</div></section>
+<section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" ><div class="pricevalue"><div class="pricevalueinner">Add More Students:<br>$60 per each Additional Student</div></div>
+</div></section>
+<section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" ><div class="pricetag"><div class="priceinner">One Day</div></div>
+</div></section>
+<div  class='hr hr-short hr-left  avia-builder-el-6  el_after_av_textblock  el_before_av_iconlist '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<div class='avia-icon-list-container  avia-builder-el-7  el_after_av_hr  avia-builder-el-last '><ul class='avia-icon-list avia-icon-list-left av-iconlist-big avia_animate_when_almost_visible'>
+<li><div  class='iconlist_icon  avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='iconlist_content_wrap'><header class="entry-content-header"><h4 class='av_iconlist_title iconlist_title '  itemprop="headline"  >Class by a Professional Developer</h4></header><div class='iconlist_content '  itemprop="text"  ><p>Training by a professional developer with working experience using JavaScript, HTML, CSS, jQuery and other server-side programming languages.</p>
+</div></div><footer class="entry-footer"></footer></article><div class='iconlist-timeline'></div></li>
+<li><div  class='iconlist_icon  avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='iconlist_content_wrap'><header class="entry-content-header"><h4 class='av_iconlist_title iconlist_title '  itemprop="headline"  >OnSite Training</h4></header><div class='iconlist_content '  itemprop="text"  ><p>At your office, home, conference room.. you name it. Training at your location, at your convenience.</p>
+</div></div><footer class="entry-footer"></footer></article><div class='iconlist-timeline'></div></li>
+<li><div  class='iconlist_icon  avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='iconlist_content_wrap'><header class="entry-content-header"><h4 class='av_iconlist_title iconlist_title '  itemprop="headline"  >Course Covers</h4></header><div class='iconlist_content '  itemprop="text"  ><p>Setup<br />
+jQuery Basic Syntax<br />
+jQuery Selector<br />
+hide, show<br />
+slideUp, slideDown, fadeIn, fadeOut, delay<br />
+Chaining methods<br />
+toggle, slideToggle, fadeToggle<br />
+html method<br />
+css method<br />
+Event Binding, on method<br />
+DOM Traversal &#8211; children, siblings, parent, prev, next, eq, first, last, closest methods.<br />
+remove(), empty() method<br />
+attr method<br />
+addClass, removeClass, toggleClass methods<br />
+find, filter methods<br />
+is, not methods<br />
+Using callbacks<br />
+animate method, stop()<br />
+Using HTML5 data attributes<br />
+Using this<br />
+Get &#038; Set text(), html(), and val()<br />
+append(), prepend(), after() and before() methods<br />
+each() method<br />
+length property</p>
+</div></div><footer class="entry-footer"></footer></article><div class='iconlist-timeline'></div></li>
+<li><div  class='iconlist_icon  avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='iconlist_content_wrap'><header class="entry-content-header"><h4 class='av_iconlist_title iconlist_title '  itemprop="headline"  >Prerequisites</h4></header><div class='iconlist_content '  itemprop="text"  ><p>Intermediate HTML<br />
+Intermediate CSS<br />
+Basic JavaScript</p>
+</div></div><footer class="entry-footer"></footer></article><div class='iconlist-timeline'></div></li>
+</ul></div></div><div class="flex_column av_one_third  flex_column_div av-zero-column-padding   avia-builder-el-8  el_after_av_one_third  el_before_av_one_third  " style='border-radius:0px; '><section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" ><div id="iphorm-outer-63f2264c0524f" class="iphorm-outer iphorm-outer-1 iphorm-uniform-theme-default" >
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+                        $('#iphorm-63f2264c0524f').iPhorm({"id":1,"uniqueId":"63f2264c0524f","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        if ($.isFunction($.fn.qtip)) {
+                $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
+                    style: {
+                        classes: 'qtip-plain qtip-shadow'
+                    },
+                    position: {
+                        my: 'left center',
+                        at: 'right center',
+                        viewport: $(window),
+                        adjust: {
+                            method: 'shift'
+                        }
+                    }
+                });
+                $('.iphorm-tooltip-click', iPhorm.instance.$form).qtip({
+                    style: {
+                        classes: 'qtip-plain qtip-shadow'
+                    },
+                    position: {
+                        my: 'left center',
+                        at: 'right center',
+                        viewport: $(window),
+                        adjust: {
+                            method: 'shift'
+                        }
+                    },
+                    show: {
+                        event: 'focus'
+                    },
+                    hide: {
+                        event: 'unfocus'
+                    }
+                });
+                $('.iphorm-tooltip-icon-hover', iPhorm.instance.$form).qtip({
+                    style: {
+                        classes: 'qtip-plain qtip-shadow'
+                    },
+                    position: {
+                        my: 'left center',
+                        at: 'right center',
+                        viewport: $(window),
+                        adjust: {
+                            method: 'shift'
+                        }
+                    },
+                    content: {
+                        text: function (api) {
+                            return $(this).find('.iphorm-tooltip-icon-content').html();
+                        }
+                    }
+                });
+                $('.iphorm-tooltip-icon-click', iPhorm.instance.$form).qtip({
+                    style: {
+                        classes: 'qtip-plain qtip-shadow'
+                    },
+                    position: {
+                        my: 'left center',
+                        at: 'right center',
+                        viewport: $(window),
+                        adjust: {
+                            method: 'shift'
+                        }
+                    },
+                    show: {
+                        event: 'click'
+                    },
+                    hide: {
+                        event: 'unfocus'
+                    },
+                    content: {
+                        text: function (api) {
+                            return $(this).find('.iphorm-tooltip-icon-content').html();
+                        }
+                    }
+                });
+                $('.iphorm-labels-inside > .iphorm-element-spacer > label').hover(function () {
+                    $(this).siblings('.iphorm-input-wrap').find('.iphorm-tooltip-hover').qtip('show');
+                }, function () {
+                    $(this).siblings('.iphorm-input-wrap').find('.iphorm-tooltip-hover').qtip('hide');
+                });
+            }
+                                    if ($.isFunction($.fn.uniform)) {
+                $('select, input:checkbox, input:radio', iPhorm.instance.$form).uniform({context: iPhorm.instance.$form, selectAutoWidth: false});
+            }
+                        if ($.isFunction($.fn.inFieldLabels)) {
+                $('.iphorm-labels-inside:not(.iphorm-element-wrap-recaptcha) > .iphorm-element-spacer > label', iPhorm.instance.$form).inFieldLabels();
+            }
+                        $('.iphorm-group-row > div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
+                    });
+    </script>
+    <form id="iphorm-63f2264c0524f" class="iphorm iphorm-form-1" action="/jquery-training/#iphorm-63f2264c0524f" method="post" enctype="multipart/form-data" novalidate="novalidate">
+        <div class="iphorm-inner iphorm-inner-1" >
+            <input type="hidden" name="iphorm_id" value="1" />
+            <input type="hidden" name="iphorm_uid" value="63f2264c0524f" />
+            <input type="hidden" name="form_url" value="https://www.chicagocomputerclasses.com/jquery-training/" />
+            <input type="hidden" name="referring_url" value="https://www.google.com/" />
+            <input type="hidden" name="post_id" value="3342" />
+            <input type="hidden" name="post_title" value="JQuery Training" />
+                            <h3 class="iphorm-title" style='color: rgb(255, 255, 255);background-color: rgb(231, 236, 223);padding: 5px 0px 8px 6px;width: 225px;margin-bottom: 9px;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;margin-left: auto;margin-right: auto;-moz-transform: rotate(-3deg);-ms-transform: rotate(-3deg);-o-transform: rotate(-3deg);-webkit-transform: rotate(-3deg);transform: rotate(-3deg);'><span class="av_font_icon  avia-icon-pos-left" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span>Request a Session</h3>
+                                                                        <div class="iphorm-success-message iphorm-hidden" ></div>
+                                        <div class="iphorm-elements iphorm-elements-1 iphorm-clearfix" >
+                <div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_1_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" >
+    <div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_1_1-element-spacer">
+        <label for="iphorm_1_1_63f2264c0524f" class="iphorm_1_1-outer-label" style='font-size: 14px;'>Name<span class="iphorm-required">(req.)</span></label>        <div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_1_1-input-wrap" >
+            <input class="iphorm-element-text  iphorm_1_1" id="iphorm_1_1_63f2264c0524f" type="text" name="iphorm_1_1"  value=""  />
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div><div class="iphorm-group-wrap iphorm_1_12-group-wrap iphorm-clearfix iphorm-labels-above iphorm-group-style-plain iphorm-group-alignment-proportional" >
+    <div class="iphorm-group-elements" >
+                <div class="iphorm-group-row iphorm-clearfix iphorm-group-row-2cols"><div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_1_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" >
+    <div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_1_3-element-spacer">
+        <label for="iphorm_1_3_63f2264c0524f" class="iphorm_1_3-outer-label" style='font-size: 14px;'>Phone<span class="iphorm-required">(req.)</span></label>        <div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_1_3-input-wrap" >
+            <input class="iphorm-element-text  iphorm_1_3" id="iphorm_1_3_63f2264c0524f" type="text" name="iphorm_1_3"  value=""  />
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div><div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_1_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" >
+    <div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_1_2-element-spacer">
+        <label for="iphorm_1_2_63f2264c0524f" class="iphorm_1_2-outer-label" style='font-size: 14px;'>Email address<span class="iphorm-required">(req.)</span></label>        <div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_1_2-input-wrap" >
+            <input class="iphorm-element-text  iphorm_1_2" id="iphorm_1_2_63f2264c0524f" type="email" name="iphorm_1_2"  value=""  />
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div></div><div class="iphorm-group-row iphorm-clearfix iphorm-group-row-2cols"></div></div></div><div class="iphorm-group-wrap iphorm_1_8-group-wrap iphorm-clearfix iphorm-labels-above iphorm-group-style-bordered iphorm-group-alignment-proportional" >
+    <div class="iphorm-group-elements" style='border-color: rgb(235, 235, 235);'>
+                <div class="iphorm-group-row iphorm-clearfix iphorm-group-row-1cols"><div class="iphorm-element-wrap iphorm-element-wrap-textarea iphorm_1_14-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" >
+    <div class="iphorm-element-spacer iphorm-element-spacer-textarea iphorm_1_14-element-spacer">
+        <label for="iphorm_1_14_63f2264c0524f" class="iphorm_1_14-outer-label" style='font-size: 14px;'>Address for the Session:<span class="iphorm-required">(req.)</span></label>        <div class="iphorm-input-wrap iphorm-input-wrap-textarea iphorm_1_14-input-wrap" >
+            <textarea class="iphorm-element-textarea  iphorm_1_14" id="iphorm_1_14_63f2264c0524f" name="iphorm_1_14"  style='height: 60px;' rows="5" cols="25"></textarea>
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div></div><div class="iphorm-group-row iphorm-clearfix iphorm-group-row-1cols"><div class="iphorm-group-wrap iphorm_1_10-group-wrap iphorm-clearfix iphorm-labels-above iphorm-group-style-plain iphorm-group-alignment-proportional" >
+    <div class="iphorm-group-elements" >
+                <div class="iphorm-group-row iphorm-clearfix iphorm-group-row-2cols"><div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_1_5-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" >
+    <div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_1_5-element-spacer">
+        <label for="iphorm_1_5_63f2264c0524f" class="iphorm_1_5-outer-label" style='font-size: 14px;'>Date<span class="iphorm-required">(req.)</span></label>        <div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_1_5-input-wrap" >
+            <input class="iphorm-element-text  iphorm_1_5" id="iphorm_1_5_63f2264c0524f" type="text" name="iphorm_1_5"  value=""  />
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div><div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_1_6-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" >
+    <div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_1_6-element-spacer">
+        <label for="iphorm_1_6_63f2264c0524f" class="iphorm_1_6-outer-label" style='font-size: 14px;'>Time<span class="iphorm-required">(req.)</span></label>        <div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_1_6-input-wrap" >
+            <input class="iphorm-element-text  iphorm_1_6" id="iphorm_1_6_63f2264c0524f" type="text" name="iphorm_1_6"  value=""  />
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div></div><div class="iphorm-group-row iphorm-clearfix iphorm-group-row-2cols"></div></div></div></div><div class="iphorm-group-row iphorm-clearfix iphorm-group-row-1cols"><div class="iphorm-group-wrap iphorm_1_19-group-wrap iphorm-clearfix iphorm-labels-above iphorm-group-style-plain iphorm-group-alignment-proportional" >
+    <div class="iphorm-group-elements" >
+                <div class="iphorm-group-row iphorm-clearfix iphorm-group-row-2cols"><div class="iphorm-element-wrap iphorm-element-wrap-select iphorm_1_18-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" >
+    <div class="iphorm-element-spacer iphorm-element-spacer-select iphorm_1_18-element-spacer">
+        <label for="iphorm_1_18_63f2264c0524f" class="iphorm_1_18-outer-label" style='font-size: 14px;'># of Participants</label>        <div class="iphorm-input-wrap iphorm-input-wrap-select iphorm_1_18-input-wrap" >
+            <select class="iphorm-element-select  iphorm_1_18" name="iphorm_1_18" id="iphorm_1_18_63f2264c0524f"  >
+                                    <option value="up to 10" >up to 10</option>
+                                    <option value="11" >11</option>
+                                    <option value="12" >12</option>
+                                    <option value="13" >13</option>
+                                    <option value="14" >14</option>
+                                    <option value="15" >15</option>
+                                    <option value="16" >16</option>
+                                    <option value="17" >17</option>
+                                    <option value="18" >18</option>
+                                    <option value="19" >19</option>
+                                    <option value="20" >20</option>
+                                    <option value="21" >21</option>
+                                    <option value="22" >22</option>
+                                    <option value="23" >23</option>
+                                    <option value="24" >24</option>
+                                    <option value="25" >25</option>
+                                    <option value="26" >26</option>
+                                    <option value="27" >27</option>
+                                    <option value="28" >28</option>
+                                    <option value="29" >29</option>
+                                    <option value="30" >30</option>
+                                    <option value="31+" >31+</option>
+                            </select>
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+</div><div class="iphorm-element-wrap iphorm-element-wrap-html iphorm_1_21-element-wrap iphorm-clearfix">
+    <div class="iphorm-element-spacer iphorm-element-spacer-html iphorm_1_21-element-spacer">
+        <div id="estimatebox"></div>    </div>
+</div>
+</div><div class="iphorm-group-row iphorm-clearfix iphorm-group-row-2cols"></div></div></div></div><div class="iphorm-group-row iphorm-clearfix iphorm-group-row-1cols"></div></div></div><div class="iphorm-element-wrap iphorm-element-wrap-textarea iphorm_1_4-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" >
+    <div class="iphorm-element-spacer iphorm-element-spacer-textarea iphorm_1_4-element-spacer">
+        <label for="iphorm_1_4_63f2264c0524f" class="iphorm_1_4-outer-label" style='font-size: 14px;'>Additional Requirements/Comments</label>        <div class="iphorm-input-wrap iphorm-input-wrap-textarea iphorm_1_4-input-wrap" >
+            <textarea class="iphorm-element-textarea  iphorm_1_4" id="iphorm_1_4_63f2264c0524f" name="iphorm_1_4"  style='height: 80px;' rows="5" cols="25"></textarea>
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div><button style="cursor:pointer" class="avia-button avia-icon_select-yes avia-color-theme-color avia-size-medium avia-position-center " type="submit" name="iphorm_submit"><span class="avia_button_icon" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span><span class="avia_iconbox_title">REQUEST A SESSION</span></button><div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_1_16-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" style='display: none;'>
+    <div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_1_16-element-spacer">
+        <label for="iphorm_1_16_63f2264c0524f" class="iphorm_1_16-outer-label" style='font-size: 14px;'>Session</label>        <div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_1_16-input-wrap" >
+            <input class="iphorm-element-text  iphorm_1_16" id="iphorm_1_16_63f2264c0524f" type="text" name="iphorm_1_16"  value="JQuery Training"  />
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div><div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_1_23-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" style='display: none;'>
+    <div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_1_23-element-spacer">
+        <label for="iphorm_1_23_63f2264c0524f" class="iphorm_1_23-outer-label" style='font-size: 14px;'>Estimate</label>        <div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_1_23-input-wrap" >
+            <input class="iphorm-element-text  iphorm_1_23" id="iphorm_1_23_63f2264c0524f" type="text" name="iphorm_1_23"  value=""  />
+                    </div>
+        <div class="iphorm-errors-wrap iphorm-hidden" >
+    </div>    </div>
+    </div><input type="hidden" class="iphorm_1_24" name="iphorm_1_24" value="https://www.google.com/" /><input type="hidden" class="iphorm_1_25" name="iphorm_1_25" value="" /><input type="hidden" class="iphorm_1_26" name="iphorm_1_26" value="https://www.google.com/" /><div class="iphorm-hidden">
+    <label>This field should be left blank<input type="text" name="iphorm_1_0" /></label>
+</div>                <div class="iphorm-submit-wrap iphorm-submit-wrap-1 iphorm-clearfix" style='display: none;'>
+                    <div class="iphorm-submit-input-wrap iphorm-submit-input-wrap-1" >
+                        <button class="iphorm-submit-element" type="submit" name="iphorm_submit" ><span ><em >Request a Session</em></span></button>
+                    </div>
+                    <div class="iphorm-loading-wrap"><span class="iphorm-loading">Please wait...</span></div>
+                </div>
+            </div>
+                                            </div>
+            </form>
+    <script type="text/javascript">
+    jQuery('#iphorm-outer-63f2264c0524f script').remove();
+    </script>
+</div>
+</div></section></div><div class="flex_column av_one_third  flex_column_div av-zero-column-padding   avia-builder-el-10  el_after_av_one_third  avia-builder-el-last  " style='border-radius:0px; '><section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" ><h3>Questions?</h3>
+<h3>(312) 818-5515</h3>
+</div></section>
+<div class='avia-image-container avia_animated_image avia_animate_when_almost_visible right-to-left av-styling-   avia-builder-el-12  el_after_av_textblock  el_before_av_hr  avia-align-left '  itemscope="itemscope" itemtype="https://schema.org/ImageObject"  ><div class='avia-image-container-inner'><img class='avia_image ' src='https://www.chicagocomputerclasses.com/wp-content/uploads/2016/01/jquery.gif' alt='jQuery Training' title='jquery'   itemprop="thumbnailUrl"  /></div></div>
+<div  class='hr hr-default  avia-builder-el-13  el_after_av_image  el_before_av_textblock '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" ><h3>How it Works?</h3>
+</div></section>
+<div  class='hr hr-short hr-right  avia-builder-el-15  el_after_av_textblock  el_before_av_icon_box '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<article class="iconbox iconbox_left   avia-builder-el-16  el_after_av_hr  el_before_av_icon_box  "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >Request</h3></header><div class='iconbox_content_container '  itemprop="text"  >Request a tutoring session.
+</div></div><footer class="entry-footer"></footer></article>
+<article class="iconbox iconbox_left   avia-builder-el-17  el_after_av_icon_box  el_before_av_icon_box  "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >Get Confirmation</h3></header><div class='iconbox_content_container '  itemprop="text"  >Our team member will review your request and get back to you shortly to finalize your appointment. If we are booked for the date/time you specified in your request we'll work with you to find a different date and time that suits you.
+</div></div><footer class="entry-footer"></footer></article>
+<article class="iconbox iconbox_left   avia-builder-el-18  el_after_av_icon_box  avia-builder-el-last  "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >Done!</h3></header><div class='iconbox_content_container '  itemprop="text"  >That's it! Enjoy your session at your location!
+</div></div><footer class="entry-footer"></footer></article></div></div></div></main><!-- close content main element --></div></div><div id='after_section_1' class='main_color av_default_container_wrap container_wrap fullsize'   ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-3342'><div class='entry-content-wrapper clearfix'><div class="flex_column av_one_full  flex_column_div first  avia-builder-el-19  el_after_av_section  avia-builder-el-no-sibling  " ><section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" >* 1 student is allowed per tutoring session. If you need more participants rate changes will apply and we need to be notified beforehand.<br><br>* The client must provide suitable and safe work environment for the tutor to be able to provide the training.
+</div></section></div></p>
+<script>
+
+var format = function(num){
+    var str = num.toString().replace("$", ""), parts = false, output = [], i = 1, formatted = null;
+    if(str.indexOf(".") > 0) {
+        parts = str.split(".");
+        str = parts[0];
+    }
+    str = str.split("").reverse();
+    for(var j = 0, len = str.length; j < len; j++) {
+        if(str[j] != ",") {
+            output.push(str[j]);
+            if(i%3 == 0 && j < (len - 1)) {
+                output.push(",");
+            }
+            i++;
+        }
+    }
+    formatted = output.reverse().join("");
+
+    var secpart = parts[1].substr(0, 2);
+
+    if (secpart.length < 2) { secpart = String(secpart) + 0; }	
+
+    return("$" + formatted + ((parts) ? "." + secpart : ""));
+};
+
+jQuery( ".iphorm_1_18" ).change(function() {
+
+  
+var runprice = jQuery( ".ccc_runningprice" ).text();
+var regprice = jQuery( ".priceinner" ).text();
+var runcount = jQuery( ".iphorm_1_18" ).val();
+
+if (runprice != "" )
+{
+var realprice = runprice.replace( /^\D+/g, '');
+} 
+else
+{
+var realprice = regprice.replace( /^\D+/g, '');
+}
+
+var displaytotal = "N/A";
+
+if (runcount > 0 && runcount < 17) {
+var realtotal = parseFloat(realprice) + ((runcount - 1) * 60);
+displaytotal = format(realtotal);
+}
+
+
+jQuery('#estimatebox').text(displaytotal);
+jQuery('.iphorm_1_23').val(displaytotal);
+
+if (isNaN(realtotal)) {
+jQuery('#estimatebox').hide();
+} else {
+jQuery('#estimatebox').show();
+}
+
+});
+
+
+jQuery( document ).ready(function() {
+
+var runprice = jQuery( ".ccc_runningprice" ).text();
+var regprice = jQuery( ".priceinner" ).text();
+var runcount = jQuery( ".iphorm_1_18" ).val();
+
+if (runprice != "" )
+{
+var realprice = runprice.replace( /^\D+/g, '');
+} 
+else
+{
+var realprice = regprice.replace( /^\D+/g, '');
+}
+
+var displaytotal = "N/A";
+
+if (runcount > 0 && runcount < 17) {
+var realtotal = parseFloat(realprice) + ((runcount - 1) * 60);
+displaytotal = format(realtotal);
+}
+
+
+jQuery('#estimatebox').text(displaytotal);
+jQuery('.iphorm_1_23').val(displaytotal);
+
+
+if (isNaN(realtotal)) {
+jQuery('#estimatebox').hide();
+} else {
+jQuery('#estimatebox').show();
+}
+
+});
+
+</script><div data-wpcr3-content="3342"><div class='wpcr3_respond_1 wpcr3_in_content' data-ajaxurl='["https:||www","chicagocomputerclasses","com|wp-admin|admin-ajax","php?action=wpcr3-ajax"]' data-on-postid='3342' data-postid='3342'><div class="wpcr3_respond_2"><div class="wpcr3_div_2"><table class="wpcr3_table_2"><tbody><tr><td colspan="2"><div class="wpcr3_leave_text">Submit your review</div></td></tr><tr class="wpcr3_review_form_text_field"><td><label for="wpcr3_fname" class="comment-field">Name: </label></td><td><input maxlength="150" class="text-input wpcr3_required" type="text" id="wpcr3_fname" name="wpcr3_fname" value="" /></td></tr><tr class="wpcr3_review_form_text_field"><td><label for="wpcr3_femail" class="comment-field">Email: </label></td><td><input maxlength="150" class="text-input wpcr3_required" type="text" id="wpcr3_femail" name="wpcr3_femail" value="" /></td></tr><tr class="wpcr3_review_form_text_field"><td><label for="wpcr3_fwebsite" class="comment-field">Website: </label></td><td><input maxlength="150" class="text-input " type="text" id="wpcr3_fwebsite" name="wpcr3_fwebsite" value="" /></td></tr><tr class="wpcr3_review_form_text_field"><td><label for="wpcr3_ftitle" class="comment-field">Review Title: </label></td><td><input maxlength="150" class="text-input " type="text" id="wpcr3_ftitle" name="wpcr3_ftitle" value="" /></td></tr><tr class="wpcr3_review_form_rating_field"><td><label for="id_wpcr3_frating" class="comment-field">Rating: </label></td><td><div class="wpcr3_rating_stars"><div class="wpcr3_rating_style1"><div class="wpcr3_rating_style1_status"><div class="wpcr3_rating_style1_score"><div class="wpcr3_rating_style1_score1">1</div><div class="wpcr3_rating_style1_score2">2</div><div class="wpcr3_rating_style1_score3">3</div><div class="wpcr3_rating_style1_score4">4</div><div class="wpcr3_rating_style1_score5">5</div></div></div><div class="wpcr3_rating_style1_base wpcr3_hide"><div class="wpcr3_rating_style1_average" style="width:0%;"></div></div></div></div><input style="display:none;" type="hidden" class="wpcr3_required wpcr3_frating" id="id_wpcr3_frating" name="wpcr3_frating" /></td></tr><tr class="wpcr3_review_form_review_field_label"><td colspan="2"><label for="id_wpcr3_ftext" class="comment-field">Review: </label></td></tr><tr class="wpcr3_review_form_review_field_textarea"><td colspan="2"><textarea class="wpcr3_required wpcr3_ftext" id="id_wpcr3_ftext" name="wpcr3_ftext" rows="8" cols="50"></textarea></td></tr><tr><td colspan="2" class="wpcr3_check_confirm"><div class="wpcr3_clear"></div><input type="hidden" name="wpcr3_postid" value="3342" /><input type="text" class="wpcr3_fakehide wpcr3_fake_website" name="website" /><input type="text" class="wpcr3_fakehide wpcr3_fake_url" name="url" /><input type="checkbox" class="wpcr3_fakehide wpcr3_fconfirm1" name="wpcr3_fconfirm1" value="1" /><label><input type="checkbox" name="wpcr3_fconfirm2" class="wpcr3_fconfirm2" value="1" />&nbsp; Check this box to confirm you are human.</label><input type="checkbox" class="wpcr3_fakehide wpcr3_fconfirm3" name="wpcr3_fconfirm3" checked="checked" value="1" /></td></tr><tr><td colspan="2"><div class="wpcr3_button_1 wpcr3_submit_btn" href="javascript:void(0);">Submit</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="wpcr3_button_1 wpcr3_cancel_btn" href="javascript:void(0);">Cancel</div></td></tr></tbody></table></div></div><div class="wpcr3_clear wpcr3_pb5"></div><div class="wpcr3_respond_3"><p><div class="wpcr3_button_1 wpcr3_show_btn" href="javascript:void(0);">Create your own review</div></p></div><div class="wpcr3_dotline"></div><div class="wpcr3_reviews_holder"><div class="wpcr3_review_item"><div class="wpcr3_item wpcr3_product" itemscope itemtype="http://schema.org/Product"><div class="wpcr3_item_name">JQuery Training</div><meta itemprop="name" content="JQuery Training" /><meta itemprop="brand" content="" /><meta itemprop="productID" content="sku:jqintro" /><div class="wpcr3_aggregateRating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><meta itemprop="bestRating" content="5" /><meta itemprop="worstRating" content="1" /><meta itemprop="ratingValue" content="0" /><meta itemprop="reviewCount" content="0" /><span class="wpcr3_aggregateRating_overallText">Average rating: </span>&nbsp;<div class="wpcr3_aggregateRating_ratingValue"><div class="wpcr3_rating_style1"><div class="wpcr3_rating_style1_base "><div class="wpcr3_rating_style1_average" style="width:0%;"></div></div></div></div>&nbsp;<span class="wpcr3_aggregateRating_reviewCount">0 reviews</span></div></div></div></div></div></div></div></div></div><!-- close content main div --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element -->						<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fourth  first el_before_av_one_fourth'><section id="text-9" class="widget clearfix widget_text">			<div class="textwidget"></div>
+		<span class="seperator extralight-border"></span></section><div class="advtelref_tel">
+<b>Call Us:</b> (312) 818-5515</div>
+
+
+<section id="text-8" class="widget clearfix widget_text">			<div class="textwidget"><h5><b>Locations:</b></h5><br><b>Chicago Computer Classes by Chi Brander Inc</b><br>200 W Madison Street<br>Suite 2100<br>Chicago, IL 60606<br><br>
+
+<p>For Excel Training Call (312) 818-5503</p><br><br></div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="newsbox-2" class="widget clearfix newsbox"><ul class="news-wrap image_size_widget"><li class="news-content post-format-standard"><a class='news-link' title='Google Sheets Apps Script  &#8211; Dynamic Dependent Dropdown Data Validation Lists' href='https://www.chicagocomputerclasses.com/google-sheets-apps-script-dynamic-dependent-dropdown-data-validation-lists/'><span class='news-thumb '><img width="36" height="36" src="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-36x36.png" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-36x36.png 36w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-80x80.png 80w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-120x120.png 120w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav.png 160w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Google Sheets Apps Script  &#8211; Dynamic Dependent Dropdown Data Validation Lists<span class='news-time'>February 15, 2018 - 7:52 am</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Google Sheets Apps Script  &#8211; Combine Multiple Tabs to a Master Tab When Column Positions Don&#8217;t Match' href='https://www.chicagocomputerclasses.com/google-sheets-apps-script-combine-multiple-tabs-to-a-master-tab-when-column-positions-dont-match/'><span class='news-thumb '><img width="36" height="36" src="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-36x36.png" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-36x36.png 36w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-80x80.png 80w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-120x120.png 120w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav.png 160w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Google Sheets Apps Script  &#8211; Combine Multiple Tabs to a Master Tab When Column Positions Don&#8217;t Match<span class='news-time'>February 13, 2018 - 6:58 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Google Sheets Get Distance &#038; Time &#8211; GOOGLEMAPS Function' href='https://www.chicagocomputerclasses.com/google-sheets-google-maps-function-distance-time/'><span class='news-thumb '><img width="36" height="36" src="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-36x36.png" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-36x36.png 36w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-80x80.png 80w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-120x120.png 120w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav.png 160w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Google Sheets Get Distance &#038; Time &#8211; GOOGLEMAPS Function<span class='news-time'>November 23, 2017 - 7:10 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Google Sheets Import JSON &#8211; IMPORTJSON Function' href='https://www.chicagocomputerclasses.com/google-sheets-import-json-importjson-function/'><span class='news-thumb '><img width="36" height="36" src="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-36x36.png" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-36x36.png 36w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-80x80.png 80w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav-120x120.png 120w, https://www.chicagocomputerclasses.com/wp-content/uploads/2013/04/ccc_fav.png 160w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Google Sheets Import JSON &#8211; IMPORTJSON Function<span class='news-time'>September 4, 2017 - 8:25 am</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Average Salaries &#8211; City of Chicago Fire Police Department Earnings' href='https://www.chicagocomputerclasses.com/average-city-chicago-salary-police/'><span class='news-thumb '><img width="36" height="36" src="https://www.chicagocomputerclasses.com/wp-content/uploads/2014/04/copy1-36x36.png" class="attachment-widget size-widget wp-post-image" alt="Copy WordPress Pages and Posts" srcset="https://www.chicagocomputerclasses.com/wp-content/uploads/2014/04/copy1-36x36.png 36w, https://www.chicagocomputerclasses.com/wp-content/uploads/2014/04/copy1-80x80.png 80w, https://www.chicagocomputerclasses.com/wp-content/uploads/2014/04/copy1-180x180.png 180w, https://www.chicagocomputerclasses.com/wp-content/uploads/2014/04/copy1-120x120.png 120w, https://www.chicagocomputerclasses.com/wp-content/uploads/2014/04/copy1.png 300w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Average Salaries &#8211; City of Chicago Fire Police Department Earnings<span class='news-time'>March 21, 2017 - 1:56 am</span></strong></a></li></ul><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="nav_menu-2" class="widget clearfix widget_nav_menu"><div class="menu-bottom-menu-container"><ul id="menu-bottom-menu" class="menu"><li id="menu-item-2833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2833"><a href="https://www.chicagocomputerclasses.com/customer-service/">Customer Service</a></li>
+<li id="menu-item-2841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2841"><a href="https://www.chicagocomputerclasses.com/cancellationsrefunds/">Refunds, Cancellations &#038; Billing Policies</a></li>
+<li id="menu-item-2843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2843"><a href="https://www.chicagocomputerclasses.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2842"><a href="https://www.chicagocomputerclasses.com/terms-use/">Terms of Use</a></li>
+</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="text-4" class="widget clearfix widget_text">			<div class="textwidget"><p><img src="https://www.chicagocomputerclasses.com/wp-content/uploads/2014/05/payment1.png" ></p>
+<p><b>Locations Serving:</b> Chicago, Loop, Downtown, North, North-East, North-West and West Suburbs, including Evanston, Northbrook, Schaumburg, Hoffman Estates and Naperville IL.</p>
+</div>
+		<span class="seperator extralight-border"></span></section></div>
+
+					</div>
+
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+
+			
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>© Copyright - CHI BRANDER INC. </span>
+
+                        
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://www.chicagocomputerclasses.com/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://www.chicagocomputerclasses.com/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://www.chicagocomputerclasses.com/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ 	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/config-woocommerce/woocommerce-mod.js?ver=1'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/iphorm-form-builder/js/jquery.fileupload.min.js?ver=9.18.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var iphormL10n = {"error_submitting_form":"An error occurred submitting the form","upload_too_many":"You have attempted to queue too many files","upload_file_type_not_allowed":"This file type is not allowed","upload_file_too_big":"This file exceeds the maximum upload size","invalid_response":"The response from the server was invalid or malformed","ajax_error":"Ajax error","plugin_url":"https:\/\/www.chicagocomputerclasses.com\/wp-content\/plugins\/iphorm-form-builder","ajax_url":"https:\/\/www.chicagocomputerclasses.com\/wp-admin\/admin-ajax.php","preview_no_submit":"The form cannot be submitted in the preview"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/iphorm-form-builder/js/jquery.iphorm.js?ver=1.10.2'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/iphorm-form-builder/js/jquery.form.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/ref-plugin/js/rinfo-min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.chicagocomputerclasses.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.5.10'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_fa09a5a864e2a76f4bef2e20b04bc5bd","fragment_name":"wc_fragments_fa09a5a864e2a76f4bef2e20b04bc5bd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.5.10'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/js/avia.js?ver=3'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/js/shortcodes.js?ver=3'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.21'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-includes/js/comment-reply.min.js?ver=4.8.21'></script>
+<script type='text/javascript' src='https://www.chicagocomputerclasses.com/wp-includes/js/wp-embed.min.js?ver=4.8.21'></script>
+
+    <script>
+	jQuery( document ).ready(function() {
+
+
+        //var tr = new rInfo();
+        //tr.run(30);
+	var c = new CRf();
+        function datacrunch(d){ 
+                    console.log(d);
+	            var formStr = "";		
+                    jQuery.each( d, function( key, value ) {
+                        formStr = formStr + "\n" + key + ": " + value;
+                    });
+                    jQuery("[name='iphorm_1_25']").val(formStr); 
+		    jQuery("[name='iphorm_2_7']").val(formStr);
+                }
+        c.set(60,datacrunch);
+
+});
+    </script>
+
+    
+<link rel="stylesheet" type="text/css" href="https://www.chicagocomputerclasses.com/wp-content/themes/enfold/css/jquery.datetimepicker.css"/ >
+
+<script src="https://www.chicagocomputerclasses.com/wp-content/themes/enfold/js/jquery.datetimepicker.js"></script>
+
+
+<script>
+
+
+jQuery(".iphorm_1_4").attr("placeholder", "What do you expect to learn on your session? What topics do you require to be covered? What additional topics do you prefer to learn?");
+
+// Date Time Picker Plugin Start
+
+
+// Date  Time Picker Plugin End.
+
+
+// jQuery(".iphorm_1_8").datepicker({ minDate: 0, maxDate: "+6M +10D", numberOfMonths: 2 });
+
+var enddt = new Date();
+var enddtstr = (enddt.getMonth()+1) + "/" + enddt.getDate() + "/" + (enddt.getFullYear()+1);
+
+ jQuery('.iphorm_1_5').datetimepicker({
+ timepicker:false,
+ format:'m/d/y',
+ formatDate:'m/d/Y',
+ minDate: 0,
+ maxDate: enddtstr,
+ closeOnDateSelect:true
+ });
+
+ jQuery('.iphorm_1_6').datetimepicker({
+ datepicker:false,
+  format:'h:i a',
+ formatTime:'h:i a',
+ minTime:'08:00 am',
+maxTime:'09:00 pm',
+step:30
+ });
+
+</script>
+
+<script language="javascript">
+  
+
+jQuery("#top #header .avia_mega_div > .sub-menu > li > ul li").on("click",function(){jQuery(this).animate({'opacity':0.1},500)});
+</script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KG836H"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KG836H');</script>
+<!-- End Google Tag Manager --><a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+</body>
+</html>
